@@ -15,8 +15,8 @@ A Python ETL script to fetch CVE data from the NVD API and store it in MongoDB w
 
 ## Installation
 ```bash
-git clone https://github.com/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/custom-python-etl-data-connector-pranav2210176.git
+cd custom-python-etl-data-connector-pranav2210176
 pip install -r requirements.txt
 ```
 ## Project Tree
